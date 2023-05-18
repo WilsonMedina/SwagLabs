@@ -1,0 +1,12 @@
+{
+	"endpoint": "/inventory.html",
+	"username": "standard_user",
+	"password": "secret_sauce",
+	"remove": "Remove",
+	"backToProducts": "Back to products",
+	"nameProduct": "Sauce Labs Backpack",
+	"price": "Price (low to high)",
+	"endpointItem": "/inventory-item.html?id=4",
+	"counterCart": "1"
+  }
+  
