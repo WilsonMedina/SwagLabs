@@ -1,6 +1,8 @@
 # SwagLabs
 Execute:
 
+You must have git and nodejs installed
+
 Clone the repo
 
  ```
